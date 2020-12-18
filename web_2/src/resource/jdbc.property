@@ -1,0 +1,4 @@
+DBDRIVER=com.mysql.jdbc.Driver
+DBURL=jdbc:mysql://localhost:3306/excise2?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+DBUSER=root
+PASSWORD=123456

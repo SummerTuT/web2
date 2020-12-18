@@ -1,0 +1,99 @@
+@CHARSET "UTF-8";
+
+		body{
+			  width: 100%;
+			  height:100%;
+			  background: rgba(255 228 225);
+		  }
+		  #box{
+			  width: 75%;
+			  height: 200px;
+			  border: orangered 2px solid;
+			  margin: 20px auto 10px;
+			  background-color: rgb(135 206 250);
+		  }
+		  #box_top{
+			  width:100%;
+			  height: 40px;
+			  /* border: black 1px solid; */
+			  font-size:20px;
+		  }
+		  #box_left{
+			  width: 10%;
+			  height:70%;
+			  /* border: black 1px solid; */
+			  float: left;
+			  margin: 5px 5px auto 5px;
+		  }
+			  
+		  #box_center{
+			  width: 70%;
+			  height:70%;
+			  /* border: black 1px solid; */
+			  float: left;
+			  margin: 5px 5px auto 5px;
+		  }
+		  #box_center_top{
+			  width: 100%;
+			  height: 75%;
+			  /* border: black 1px solid; */
+		  }
+		  #box_center_bottom{
+			  width: 100%;
+			  height: 20%;
+			  /* border: black 1px solid; */
+		  }
+			  
+		  #box_right{
+			  width: 15%;
+			  height:70%;
+			  /* border: black 1px solid; */
+			  float: right;
+			  margin: 5px 5px auto 5px;
+		  }
+		 
+		  #time{
+			  width:20%;
+			  height:100%;
+			  margin-right: 5px;
+			  margin-bottom: 0px;
+			  margin-top: 0px;
+			  float: left;
+			  /* border: black 1px solid; */
+		  }
+		  #size{
+			  width:20%;
+			  height:100%;
+			  margin-right: 5px;
+			  margin-bottom: 0px;
+			  margin-top: 0px;
+			  float: left;
+		  }
+		  #star_size{
+			  width:5%;
+			  height:100%;
+			  margin-left: 5px;
+			  margin-bottom: 0px;
+			  margin-top: 0px;
+			  float: left;
+		  }
+			  
+			  
+		  #star{
+			  display: block;
+			  width:150px;
+			  height:30px;
+			  /* border: black 1px solid; */
+			  margin-bottom: 0px;
+			  margin-top: 0px;
+			  float: left;
+			  background: url(../filelcon/star.png);
+		  }
+		  
+		  #a1{
+			  text-decoration: none;
+			  background-color: grey41 ;
+			  font-size: 35px;
+			  font color: MistyRose4;
+			  border: black 1px solid;
+		  }

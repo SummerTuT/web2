@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+body{
+	background: linear-gradient(to left, rgba( 255 228 225), rgba(230 230 250));
+	}
+
+#boxleft{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+
+#boxright{
+	width:50%;
+	height: 100%;
+	float:right;
+	
+}
+
+#inf{
+	color: red;
+	font-family: "黑体";
+	font-weight: bold;
+	font-size: 65px ;
+	margin: 150 0 40 0;
+	letter-spacing:4px;
+}
+
+#ppp{
+	color:skyblue;
+}
+#tupian{
+	margin: 150 0 0 0;
+}
+#size{
+	font-size: 30px ;
+}
